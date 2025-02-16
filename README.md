@@ -44,15 +44,15 @@ cd mockapi-people-seeder
 ### Install dependencies
 
 ```sh
-npm install
+pnpm install
 ```
 
 ### Build and Run
 
-#### Using npm
+#### Using pnpm
 
 ```sh
-npm run start
+pnpm start:dev
 ```
 
 #### Using Docker
